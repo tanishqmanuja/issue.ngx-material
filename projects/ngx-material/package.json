@@ -1,0 +1,19 @@
+{
+  "name": "ngx-material",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^17.0.0-rc.0 || ^16.2.10",
+    "@angular/core": "^17.0.0-rc.0 || ^16.2.10",
+    "@material/web": "^1.0.0",
+    "material-symbols": "^0.13.0"
+  },
+  "peerDependenciesMeta": {
+    "material-symbols": {
+      "optional": true
+    }
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
